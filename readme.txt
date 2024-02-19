@@ -1,5 +1,4 @@
-GET PRO VERSION HERE:
-https://templatesjungle.gumroad.com/l/kindergarten-daycare-and-kindergarten-html-website-template
+
 
 
 It is a premium HTML CSS template by TemplatesJungle.com
